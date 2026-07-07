@@ -38,9 +38,7 @@ _(Take a screenshot of your `http://localhost:3000` homepage and place it below)
 - **Grid Layout:** Displays dynamically fetched "Available Plans".
 - **Action Modal:** A confirmation pop-up when "Switch Plan" is clicked, preventing accidental database writes.
 
-_(Login as a Customer, take a screenshot of the dashboard, and place it below)_
-
-> **[ INSERT SCREENSHOT OF CUSTOMER DASHBOARD HERE ]**
+![CUSTOMER DASHBOARD](<localhost_3000_ (3).png>)
 
 ## 3. Administrator Operations Dashboard
 
@@ -52,6 +50,4 @@ _(Login as a Customer, take a screenshot of the dashboard, and place it below)_
 - **Creation Form:** A modal triggered by a "+ Create New Plan" button for inputting validated plan data.
 - **Audit Logs Section:** A chronological data table displaying the history of customer plan changes, complete with an "Export to CSV" button.
 
-_(Login as an Admin, take a screenshot of the dashboard, and place it below)_
-
-> **[ INSERT SCREENSHOT OF ADMIN DASHBOARD HERE ]**
+![ADMIN DASHBOARD](<localhost_3000_ (4).png>)
