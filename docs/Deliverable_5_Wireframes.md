@@ -24,9 +24,7 @@
 - "Login as Customer" Action Button
 - "Login as Administrator" Action Button
 
-_(Take a screenshot of your `http://localhost:3000` homepage and place it below)_
-
-> **[ INSERT SCREENSHOT OF LOGIN PAGE HERE ]**
+![LOGIN PAGE](<localhost_3000_ (5).png>)
 
 ## 2. Customer Self-Service Dashboard
 
